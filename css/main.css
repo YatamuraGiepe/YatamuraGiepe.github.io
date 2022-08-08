@@ -8,6 +8,8 @@ h1 {
 }
 
 p {
-    width: 50px;
+    width: 100px;
     margin: 0 auto;
+    text-align:center;
 }
+
